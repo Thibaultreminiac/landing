@@ -1,0 +1,24 @@
+.footer{
+	background-color: grey;
+	background-size: cover;
+	padding: 15px;
+	text-align: center;
+	color: white;
+}
+.footer-block{
+	display: inline-block;
+	position: relative;
+	text-align: left;
+}
+.address{
+	text-align: left; 
+	display: inline;
+	position: relative;
+	color: white;
+}
+.contact{
+	text-align: right;
+	display: inline;
+	position: relative;
+	color: white;
+}
